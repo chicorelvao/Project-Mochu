@@ -1,2 +1,8 @@
 # Project-Mochu
 Project Mochu was a school project aimed to prevent wildfires.
+
+The theme of fires in Portugal has been recurrent in the media. 2017 was one of the worst years of fires in the national territory as around 442 418 hectares were burned, a number more than 5 times higher than the national average of forest burned between 2007 and 2016. In addition, 2017 is also marked as one of the years most tragic ever due to the high number of fatalities compared to previous years.
+In some of the fires it is impossible to predict the path they will take and hence they are extremely dangerous for the populations and for the people who circulate on the different roads...
+Since we were by no means indifferent to the tragic nature of the fires or these facts, we set the objective for this school year to create a device, which would be placed at strategic points, capable of detecting fires at an early stage or capable of elucidating the authorities / combat forces as to their trajectory at an advanced stage.
+Our device is composed of two parts: a fire resistant armor and an electronic circuit programmed using Arduino, which will be inside this armor.
+In a very simple way, the system would work with the aid of a cable, which would be on the outside of the armor and which, when burning, with a consequent increase in temperature, would send a message to the competent authorities with the coordinates of this device. In this way, it would be possible to extinguish a fire that started close to one of the devices, avoiding greater consequences, or also, strictly follow the path of the fire through the warnings of several devices.
